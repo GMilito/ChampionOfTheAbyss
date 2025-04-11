@@ -3,12 +3,12 @@ loaderVersion="[47,)"
 license="All rights reserved"
 
 [[mods]]
-modId="championoftheabyss"
+modId="championoftheabyssmod"
 version="1.0.0"
 displayName="Champion of the Abyss"
 description='''Un mod de acción cooperativo donde portales dimensionales traen caos al mundo.'''
 
-[[dependencies.championoftheabyss]]
+[[dependencies.championoftheabyssmod]]
     modId="forge"
     mandatory=true
     versionRange="[47,)"
